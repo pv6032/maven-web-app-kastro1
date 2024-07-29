@@ -4,7 +4,7 @@
 
 <a href="http://www.youtube.com/@LearnWithKASTRO">Click Here To See My YouTube Channel</a>
   
-  <h2> Thank's from Pankaj</h2>
+  <h2> Thank's from Pankaj Vishwakarma</h2>
   
   <h3> Happy Learning!!! </h3>
 
